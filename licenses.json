@@ -1,0 +1,9 @@
+{
+  "licenses": [
+    {
+      "email": "cliente@email.com",
+      "expira": "2026-06-03",
+      "key": "abc123xyz"
+    }
+  ]
+}
