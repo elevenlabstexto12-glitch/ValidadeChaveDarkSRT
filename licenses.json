@@ -4,11 +4,6 @@
       "email": "cliente@email.com",
       "expira": "2026-06-03",
       "key": "abc123xyz"
-    },
-    {
-      "email": "teste@gmail.com",
-      "expira": "2026-05-06",
-      "key": "teste_key"
     }
   ]
 }
