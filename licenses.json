@@ -4,4 +4,11 @@
       "email": "cliente@email.com",
       "expira": "2026-06-03",
       "key": "abc123xyz"
+    },
+    {
+      "email": "contato.cms@gmail.com",
+      "expira": "2026-05-04",
+      "key": "contato.cms_key"
     }
+  ]
+}
