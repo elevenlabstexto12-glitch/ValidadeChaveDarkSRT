@@ -21,6 +21,13 @@
       "ativada": false,
       "ativada_em": null,
       "machine_id": null
+    },
+    {
+      "key": "C8F9-V784-SU6M-CJDO",
+      "expira": "2026-05-05",
+      "ativada": false,
+      "ativada_em": null,
+      "machine_id": null
     }
   ]
 }
