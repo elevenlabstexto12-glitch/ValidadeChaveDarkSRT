@@ -14,6 +14,13 @@
       "email": "contato.cms123@gmail.com",
       "expira": "2026-05-10",
       "key": "contato.cms123_key"
+    },
+    {
+      "key": "10YD-BH8B-YB8N-DZ7W",
+      "expira": "2026-05-05",
+      "ativada": false,
+      "ativada_em": null,
+      "machine_id": null
     }
   ]
 }
