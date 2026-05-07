@@ -20,14 +20,14 @@
       "expira": "2026-05-10",
       "ativada": false,
       "ativada_em": null,
-      "machine_id": "ec491d32e85fc3722115ac02b2648ec3cb43bc4700639ebd60c2781c5a07d89a"
+      "machine_id": null
     },
     {
       "key": "C8F9-V784-SU6M-CJDO",
       "expira": "2026-05-07",
       "ativada": false,
       "ativada_em": null,
-      "machine_id": "ede744488960396558a381e8f0cf03ab73dc0cab4a26ab95cc5d99e9b2e65887"
+      "machine_id": null
     }
   ]
 }
