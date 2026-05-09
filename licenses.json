@@ -48,7 +48,7 @@
       "key": "K0DK-6US1-BJR2-GRZN",
       "expira": "2026-05-09",
       "ativo": true,
-      "dias": 2,
+      "dias": 30,
       "telegram_user": "@Teste"
     }
   ]
