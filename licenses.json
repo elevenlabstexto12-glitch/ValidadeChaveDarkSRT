@@ -38,7 +38,8 @@
       "expira": "2026-05-09",
       "ativo": true,
       "dias": 30,
-      "telegram_user": "@SuporteRoboAutomaticTrader"
+      "telegram_user": "@SuporteRoboAutomaticTrader",
+      "cpf_cnpj": "12596800705"
     },
     {
       "nome": "Teste",
