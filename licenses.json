@@ -39,7 +39,8 @@
       "ativo": true,
       "dias": 30,
       "telegram_user": "@SuporteRoboAutomaticTrader",
-      "cpf_cnpj": "12596800705"
+      "cpf_cnpj": "12596800705",
+      "cpfCnpj": "12596800705"
     },
     {
       "nome": "Teste",
