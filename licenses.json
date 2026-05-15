@@ -48,7 +48,9 @@
       "machine_id": "cf5dcd94dbf076b5f9ca6e336c8e4e4646e6ada704f758a5ab26355d0203e5d2",
       "cpfCnpj": "",
       "expira": "2026-06-15",
-      "ativo": true
+      "ativo": true,
+      "origem": "kiwify",
+      "atualizado_em": "2026-05-16T00:05:31"
     }
   ]
 }
